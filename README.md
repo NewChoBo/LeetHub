@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

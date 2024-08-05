@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |

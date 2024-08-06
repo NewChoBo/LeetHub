@@ -11,9 +11,12 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 두 개의 비어있지 않은 링크드 리스트, 숫자는 0~9 (숫자 앞에 0 없음. 0 아니면)
+        // GPT 최적화
         int addNext = 0;
-        Queue<Integer> numQueue = new ArrayDeque();
-        while (l1 != null || l2 != null) {
+        ListNode rootNode = new ListNode(0);
+        ListNode indexNode = rootNode;
+
+        while (l1 != null || l2 != null || addNext > 0) {
             int a = 0;
             int b = 0;
 
@@ -26,24 +29,13 @@ class Solution {
                 l2 = l2.next;
             }
 
-            int newVal = a + b + addNext;            
+            int newVal = a + b + addNext;
             addNext = newVal / 10;
             newVal = newVal % 10;
-            numQueue.add(newVal);
-        }
-        if (addNext != 0)
-            {numQueue.add(addNext);}
-
-        int start = numQueue.poll();
-        ListNode newNode = new ListNode(start);
-        ListNode node = newNode;
-        while (!numQueue.isEmpty()) {
-            int num = numQueue.poll();
-            ListNode tempNode = new ListNode(num);
-            node.next = tempNode;
-            node = node.next;
+            indexNode.next = new ListNode(newVal);
+            indexNode = indexNode.next;
         }
 
-        return newNode;
+        return rootNode.next;
     }
 }

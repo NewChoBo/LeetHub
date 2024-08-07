@@ -13,10 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NewChoBo/LeetHub/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

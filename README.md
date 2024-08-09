@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
+| [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NewChoBo/LeetHub/tree/master/0002-add-two-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -45,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->

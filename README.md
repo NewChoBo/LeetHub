@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
 | [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NewChoBo/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/NewChoBo/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NewChoBo/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NewChoBo/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -52,4 +54,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/NewChoBo/LeetHub/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/NewChoBo/LeetHub/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->

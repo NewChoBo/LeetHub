@@ -1,24 +1,24 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        Set<String> stringSet = new HashSet();
-        Map<String, Integer> counterMap = new HashMap<>();
-
-        for(int i=0; i<arr.length; i++) {
-            String word = arr[i];
-            if(counterMap.get(word) == null) counterMap.put(word, 0);
-            counterMap.put(word, counterMap.get(word)+1);
+        Map<String, Boolean> stringCntMap = new HashMap();
+        for (String str : arr) {
+            if (stringCntMap.get(str) == null) {
+                stringCntMap.put(str, true);
+            } else {
+                stringCntMap.put(str, false);
+            }
         }
-
+        String result = "";
         int cnt = 0;
-        for(int i=0; i<arr.length; i++) {
-            String word = arr[i];
-            if(counterMap.get(word) == 1) {
+        for (String str : arr) {
+            if (stringCntMap.get(str)) {
                 cnt++;
-                if(cnt == k) {
-                    return word;
+                if (cnt == k) {
+                    result = str;
+                    break;
                 }
             }
         }
-        return "";
+        return result;
     }
 }
